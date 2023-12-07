@@ -30,9 +30,9 @@ This analysis is about findind the relationship between sexual partners and STDÂ
 In this project data was obtained from 858 patients at 'Hospital Universitario de Caracas' in Caracas, Venezuels and included features such as number of pregnancies, smoking habits, Sexually Transmitted Disease (STD), demographics, and historic medical records. Once we had the data we proceeded to analyze the information to find a relationship between sexual partners and STDÂ´s with cervical cancer.
 The main script used for this proyects are listed below:
 
-> 1. [Data sample](https://github.com/UP210300/UP210300_DSA/tree/main/U1) 
-> 2. [Data analysis](https://github.com/UP210300/UP210300_DSA/tree/main/U2)
-> 3. [Data](https://github.com/UP210300/UP210300_DSA/tree/main/U2) 
+> 1. [Data sample](https://github.com/UP210300/proyect-analysis-of-data/blob/main/get_rows.py)) 
+> 2. [Data analysis](https://github.com/UP210300/proyect-analysis-of-data/blob/main/data_analysis.py))
+> 3. [Data](https://github.com/UP210300/proyect-analysis-of-data/blob/main/cervical_cancer.csv)) 
 
 ## Analysis Summary
 
