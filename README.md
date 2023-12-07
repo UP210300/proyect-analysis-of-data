@@ -8,7 +8,7 @@
 
 <div align ="center">
 
-<img alt="img 1" height="150" src="Images/cervical_cancer.png"/>   
+<img alt="img 1" height="150" src="Images/cervical_cancer.jpg"/>   
 
 </div>
 <br>
@@ -95,16 +95,22 @@ Evaluated the possibility of a relationship between STDs and the risk of cervica
 
 ## Results and conclusions
 <div align ="center">
-  <img alt="img 2" height="150" src="Images/graph1.png"/>  
-  Scatter Plot: Age vs Number of Sexual Partners
+  <img alt="img 2" height="150" src="Images/graph1.png"/>
+  <div>
+     Scatter Plot: Age vs Number of Sexual Partners
+  </div>
 </div>
 <div align ="center">
   <img alt="img 2" height="150" src="Images/graph2.png"/>  
-  Histogram: First Sexual Intercourse Age
+  <div>
+    Histogram: First Sexual Intercourse Age
+  </div>
 </div>
 <div align ="center">
   <img alt="img 2" height="150" src="Images/graph3.png"/>  
-  'Correlation Matrix - ETS Features vs Biopsy'
+  <div>
+    'Correlation Matrix - ETS Features vs Biopsy'
+  </div>
 </div>
 
 In the conducted analysis, we investigated the intricate interplay between age, sexual behavior, and variables associated with sexually transmitted diseases (STDs) in the dataset. The scatter plot of age against the number of sexual partners suggested a nuanced relationship, showcasing variability in sexual partner counts across different age groups. Meanwhile, the histogram of the age of first intercourse highlighted a predominant trend of initial sexual experiences occurring between the ages of 15 and 18, with no distinct correlation observed with the subsequent number of sexual partners.
